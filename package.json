@@ -1,11 +1,11 @@
 {
-  "name": "ngoit-js-cw-06",
+  "name": "simple-notes-book",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-cw-06/",
+    "build": "vite build --base=/Simple-Notes-Book/",
     "preview": "vite preview"
   },
   "devDependencies": {
